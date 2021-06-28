@@ -2,6 +2,8 @@
 
 # [Kaluulator](https://arturgreziak.github.io/kalkulator/)
 
+![kalkulator](http://artur-greziak.pl/kalkulator/kalkulator.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
